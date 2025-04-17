@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23-vanshika&show_icons=true&theme=radical" alt="vanshika github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-vanshika&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2310vanshika&show_icons=true&theme=radical" alt="vanshika github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2310vanshika&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 ---
